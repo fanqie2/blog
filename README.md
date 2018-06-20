@@ -1,4 +1,4 @@
-<img src='./img/bg1.PNG'>
+<img src='http://oivglgspr.bkt.clouddn.com/bg1.PNG'>
 
 
 # blog
